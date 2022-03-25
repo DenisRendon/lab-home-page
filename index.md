@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DenisRendon/lab-home-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About me
+Hello I'm Denis Rendon and am located in central Texas. Over the last 12 years I have had a career in aviation and the space industry.  During those 12 years was a helicopter crewchief flight instructor for the Army, a Department of the Army Civilian instructor training reserve units, after that contracted over seas working as a flight engineer and flight instructor for 3 years training the Afghan Airforce and special mission wing units. Most recently I was with Firefly Aerospace's integration team building the Alpha rocket. I am excited about this new chapter and career and cant wait to see where it takes me.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Growth mindset* 
+1. Have a willingness to learn and make mistakes along the way. 
+2. Being able to accept that and still grow creates many more oppertunites in life vs having a fixed mindset and being afraid to get out of your confort box. 
 
-```markdown
-Syntax highlighted code block
+*Reminders to myself to keep a growth mindset*
+1. Show up, participate, ask questions
+2. Try to help others
+3. Ask questions, research and dont be afraid to be wrong
 
-# Header 1
-## Header 2
-### Header 3
+    Github profile [link](https://github.com/DenisRendon)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Readings Table of contents
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1. Reading 01-Markdown [link](https://denisrendon.github.io/01---Learning-Markdown/)
+2. Reading 02-The coders computer [link](https://denisrendon.github.io/02---The-coders-computer/)
+3. Reading 03-Revisions and the cloud [link](https://denisrendon.github.io/03---Revisions-and-the-cloud/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DenisRendon/lab-home-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
