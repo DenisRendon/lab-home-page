@@ -24,4 +24,5 @@ Hello I'm Denis Rendon and am located in central Texas. Over the last 12 years I
 2. Reading 02-The coders computer [link](https://denisrendon.github.io/02---The-coders-computer/)
 3. Reading 03-Revisions and the cloud [link](https://denisrendon.github.io/03---Revisions-and-the-cloud/)
 4. Reading 04-Structure web pages with HTML [link](https://denisrendon.github.io/04---Structure-web-pages-with-HTML/)
+5. Reading 05-Design web pages with CSS [link](https://denisrendon.github.io/05--Design-web-pages-with-CSS/)
 
